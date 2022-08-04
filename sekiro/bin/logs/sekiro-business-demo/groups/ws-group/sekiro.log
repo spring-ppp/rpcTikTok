@@ -1,0 +1,10 @@
+[2022-07-28 15:27:46,713 [sekiro-worker-3-1]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:b79eebd1-6002-c0a5-4258-d6ada44e5304] client register
+[2022-07-28 15:27:54,723 [group-thread-ws-group]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:b79eebd1-6002-c0a5-4258-d6ada44e5304] client disconnect
+[2022-07-28 15:27:59,740 [sekiro-worker-3-2]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:a139f1f2-0581-79c1-61c7-4d112b98d73d] client register
+[2022-07-28 15:28:58,813 [group-thread-ws-group]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:a139f1f2-0581-79c1-61c7-4d112b98d73d] client disconnect
+[2022-07-28 15:30:10,040 [sekiro-worker-3-25]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:ce80c6ae-80be-25fb-f22d-bbb611b35491] client register
+[2022-07-28 15:30:41,851 [group-thread-ws-group]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:ce80c6ae-80be-25fb-f22d-bbb611b35491] client disconnect
+[2022-07-28 15:31:50,971 [sekiro-worker-3-30]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:2cb04524-1f33-5701-5ddd-c34fcedd3d23] client register
+[2022-07-28 15:40:43,661 [group-thread-ws-group]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:2cb04524-1f33-5701-5ddd-c34fcedd3d23] forward invoke :{"action":"clientTime","group":"ws-group"} to client:2cb04524-1f33-5701-5ddd-c34fcedd3d23
+[2022-07-28 15:40:43,665 [sekiro-worker-3-30]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:2cb04524-1f33-5701-5ddd-c34fcedd3d23][action:clientTime] forward invoke seq:2 request:{"action":"clientTime","group":"ws-group"}
+[2022-07-28 15:41:07,637 [group-thread-ws-group]  INFO Sekiro:?]  [sekiroGroup:ws-group][clientId:2cb04524-1f33-5701-5ddd-c34fcedd3d23] client disconnect
